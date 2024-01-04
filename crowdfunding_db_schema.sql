@@ -1,5 +1,5 @@
 -- Creating the database 
-CREATE DATABASE crowdfunding_db;
+--CREATE DATABASE crowdfunding_db;
 
 -- Creating the Contacts Table
 CREATE TABLE Contacts (
