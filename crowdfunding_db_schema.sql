@@ -1,5 +1,11 @@
 -- Creating the database 
---CREATE DATABASE crowdfunding_db;
+CREATE DATABASE crowdfunding_db;
+
+-- dropping the tables that exists already in the database
+DROP TABLE IF EXISTS Campaign;
+DROP TABLE IF EXISTS Contacts;
+DROP TABLE IF EXISTS Category;
+DROP TABLE IF EXISTS Subcategory;
 
 -- Creating the Contacts Table
 CREATE TABLE Contacts (
