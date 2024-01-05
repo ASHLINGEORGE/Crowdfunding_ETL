@@ -1,5 +1,5 @@
 --creating  crowdfunding_db database
---CREATE DATABASE crowdfunding_db;
+CREATE DATABASE crowdfunding_db;
 
 --dropping the tables that exists already in the database
 DROP TABLE IF EXISTS Contacts;
